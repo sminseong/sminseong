@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         안녕하세요! 👋 저는 Java 백엔드 개발자를 꿈꾸며 공부하고 있는 sminseong 입니다.<br><br>
-          🔹 <b>사용 기술</b>: Java 17 | MySQL 8.0 | Spring Boot (공부 중) <br>
+          🔹 <b>사용 기술</b>: Java 17 | MySQL 8.0 | Spring & Spring Boot | Mybatis | Vue.js | Docker | NCP | <br>
           🔹 <b>개발한 프로젝트</b>: 로앤로드(Law&Road) : 채팅 기반 라이브 커머스형 법률 상담 플랫폼<br>
         MartGo(마트고) - WMS(창고관리시스템) 개발 <br><br>
         배운 것을 공유하며 함께 성장하고 싶어요! 😊<br>
